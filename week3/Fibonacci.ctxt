@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Fibonacci
+comment0.text=\ 7.\ Write\ a\ program\ to\ print\ the\ Fibonacci\ series\ of\ n\ terms\ where\ n\ is\ input\ by\ \ user\:\ \ \r\n0\ 1\ 1\ 2\ 3\ 5\ 8\ 13\ 24\ .....
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
